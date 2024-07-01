@@ -1,2 +1,8 @@
-./gitkeep
-!gitignore
+# Ignore .gitkeep files
+*.gitkeep
+
+# Ignore other common files and directories
+node_modules/
+dist/
+.env
+.DS_Store
