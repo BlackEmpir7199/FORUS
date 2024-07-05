@@ -14,7 +14,7 @@ FORUS (Focused Operational Research and Unified Systems) is a comprehensive solu
 
 ## System Architecture
 
-![FORUS System Architecture]![image](https://github.com/BlackEmpir7199/FORUS/assets/118678415/0e1bc4ae-3214-4fb0-bdb0-5069177b2b0b)
+![image](https://github.com/BlackEmpir7199/FORUS/assets/118678415/0e1bc4ae-3214-4fb0-bdb0-5069177b2b0b)
 
 The architecture of FORUS is designed to be robust and scalable, ensuring efficient data collection, processing, and dissemination during disaster situations. The key components include:
 
