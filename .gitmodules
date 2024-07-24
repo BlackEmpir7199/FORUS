@@ -1,0 +1,3 @@
+[submodule "Service-Systems/forussmstransceiver"]
+	path = Service-Systems/forussmstransceiver
+	url = https://github.com/BlackEmpir7199/Forus-Sms-Broadcaster
