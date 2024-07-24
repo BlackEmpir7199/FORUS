@@ -4,3 +4,6 @@
 [submodule "Applications/foruspublic"]
 	path = Applications/foruspublic
 	url = https://github.com/BlackEmpir7199/Forus-Public-App
+[submodule "Applications/forusrescuer"]
+	path = Applications/forusrescuer
+	url = https://github.com/BlackEmpir7199/Forus-Rescuer-App
