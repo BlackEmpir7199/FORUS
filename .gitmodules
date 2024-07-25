@@ -1,9 +1,12 @@
-[submodule "Service-Systems/forussmstransceiver"]
-	path = Service-Systems/forussmstransceiver
-	url = https://github.com/BlackEmpir7199/Forus-Sms-Broadcaster
 [submodule "Applications/foruspublic"]
 	path = Applications/foruspublic
 	url = https://github.com/BlackEmpir7199/Forus-Public-App
 [submodule "Applications/forusrescuer"]
 	path = Applications/forusrescuer
 	url = https://github.com/BlackEmpir7199/Forus-Rescuer-App
+[submodule "Service-Systems/forussmstransceiver"]
+	path = Service-Systems/forussmstransceiver
+	url = https://github.com/BlackEmpir7199/Forus-Sms-Broadcaster
+[submodule "Applications/forus"]
+	path = Applications/forus
+	url = https://github.com/Prasanth-S7/forus
